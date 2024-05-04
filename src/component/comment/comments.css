@@ -1,0 +1,14 @@
+div {
+  color: aliceblue;
+}
+.f-con {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+button {
+  width: 15vw;
+}
+.islike {
+  color: burlywood;
+}
